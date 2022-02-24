@@ -7,11 +7,15 @@ const P1 = () => {
     <div>
       <Row>
         <Col style={{
-          marginLeft: '3%',
-          marginTop: '25%',
+          marginLeft: '15%',
+          marginTop: '10%',
+          marginRight: '25%',
         }} >
         <h1>Study Card</h1>
-        <p>dy Card is a new and innovative way 
+        <p style={{
+          textAlign: 'justify'
+        }}>
+          dy Card is a new and innovative way 
           to memorize words and phrases. You can 
           create your own vocabulary list and test 
           yourself, so learning new words is now 
