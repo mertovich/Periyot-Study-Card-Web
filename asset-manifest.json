@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Periyot/Periyot-Study-Card-Web/static/css/main.63daf43c.css",
+    "main.js": "/Periyot/Periyot-Study-Card-Web/static/js/main.cf1eb055.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/Periyot/Periyot-Study-Card-Web/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/screen3.png": "/Periyot/Periyot-Study-Card-Web/static/media/screen3.57b5f987e09f9bb695d3.png",
+    "static/media/screen2.png": "/Periyot/Periyot-Study-Card-Web/static/media/screen2.55261de6990e2eb64a82.png",
+    "static/media/screen1.png": "/Periyot/Periyot-Study-Card-Web/static/media/screen1.89e94c319d5de61fce66.png",
+    "static/media/check.png": "/Periyot/Periyot-Study-Card-Web/static/media/check.f306c52678eeef9af6d6.png",
+    "index.html": "/Periyot/Periyot-Study-Card-Web/index.html",
+    "main.63daf43c.css.map": "/Periyot/Periyot-Study-Card-Web/static/css/main.63daf43c.css.map",
+    "main.cf1eb055.js.map": "/Periyot/Periyot-Study-Card-Web/static/js/main.cf1eb055.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/Periyot/Periyot-Study-Card-Web/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63daf43c.css",
+    "static/js/main.cf1eb055.js"
+  ]
+}
