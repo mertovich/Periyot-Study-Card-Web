@@ -5,7 +5,7 @@ import P2 from '../components/P2'
 import P3 from '../components/P3'
 
 const Home = () => {
-    const [selectPage, setselectPage] = useState(0)
+    const [selectPage, setselectPage] = useState(2)
     return (
         <div>
             {selectPage === 0 ? <P1 /> : null}
